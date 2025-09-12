@@ -1,8 +1,8 @@
 ## Boas-vindas! 🐰
 
-Meu nome é **David Coelho**, estudante de ciência da computação. Sou um aspirante a desenvolvedor web (e ilustrador por trás das câmeras mas essa parte é segredo!)
+Olá! Eu sou **David Coelho**, estudante de Ciência da Computação, aspirante a desenvolvedor e artista por hobby de longa data. 
 
 ### Experiente com:
-`Laravel` `Node.js` `Next.js` `React`\
-`Javascript` `C# (Unity)` `Python` `Java`\
-`HTML` `CSS` `Tailwind` `SASS`
+`Next.js` `React.js` `TypeScript` `Laravel`\
+`HTML` `CSS3` `Tailwind` `SASS`
+`MySQL` `MongoDB` `Git`
