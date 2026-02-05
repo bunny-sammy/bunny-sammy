@@ -1,8 +1,12 @@
 <div align="center">
-  <img src="assets/logo.svg" />
+    <img width="400" src="assets/logo.svg" />
 </div>
 
-<p align="center">Olá! Eu sou <b>David Coelho</b>, recém-formado em Ciência da Computação, desenvolvedor web focado em experiência de usuário e artista por hobby de longa data.</p>
+<div align="center">
+    <p align="center" style="max-width: 400px;">
+    Olá! Eu sou <b>David Coelho</b>, recém-formado em Ciência da Computação, desenvolvedor web focado em experiência de usuário e artista por hobby de longa data.
+    </p>
+</div>
 
 <div align="center">
   <a
