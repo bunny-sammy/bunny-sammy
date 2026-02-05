@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="80" src="assets/logo.svg"  />
+  <img src="assets/logo.svg" />
 </div>
 
 <p align="center">Olá! Eu sou <b>David Coelho</b>, recém-formado em Ciência da Computação, desenvolvedor web focado em experiência de usuário e artista por hobby de longa data.</p>
 
-<nav align="center">
+<div align="center">
   <a
     target="_blank"
     href="mailto:dsamuel.coelho@hotmail.com">
@@ -45,4 +45,4 @@
         alt="Itch.io"
     />
   </a>
-</nav>
+</div>
