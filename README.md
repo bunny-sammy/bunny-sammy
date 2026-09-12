@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    Olá! Eu sou <b>David Coelho</b>, recém-formado em Ciência da<br/>
+    Olá! Eu sou <b>David Coelho</b>, formado em Ciência da<br/>
     Computação, desenvolvedor web focado em experiência de<br/>
     usuário e artista por hobby de longa data.
 </p>
@@ -31,14 +31,6 @@
     <img
         src="assets/linkedin.svg"
         alt="Linkedin"
-    />
-  </a>
-  <a
-    target="_blank"
-    href="https://www.instagram.com/bunnysammy_">
-    <img
-        src="assets/instagram.svg"
-        alt="Instagram"
     />
   </a>
   <a
